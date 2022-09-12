@@ -6,7 +6,7 @@ namespace AnimalClass
         static void Main(string[] args)
         {
            
-            Animal animal = new Animal(3);
+            
             Dogs dogs1 = new Dogs(0, "White");
             Dogs dogs2 = new Dogs(0, "Grey");
             Dogs dogs3 = new Dogs(1, "Black");
