@@ -23,7 +23,7 @@ namespace AnimalClass
             dogList.Add(dogs5);
 
 
-            //code to filter puppies
+            //code to filter puppies by calling overiden function
             for (int i = 0; i < dogList.Count; i++)
             {
                 if (dogList[i].isBaby())
